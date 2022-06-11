@@ -12,18 +12,26 @@ Jekyll requires blog post files to be named according to the following format:
 
 Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
 
+```mermaid
+  graph TD;
+      A-->B;
+      A-->C;
+      B-->D;
+      C-->D;
+```
+
 Jekyll also offers powerful support for code snippets:
 
 ```mermaid
-sequenceDiagram
-Alice->>John: Hello John, how are you?
-loop Healthcheck
-    John->>John: Fight against hypochondria
-end
-Note right of John: Rational thoughts!
-John-->>Alice: Great!
-John->>Bob: How about you?
-Bob-->>John: Jolly good!
+    sequenceDiagram;
+	Alice->>John: Hello John, how are you?;
+	loop Healthcheck;
+	    John->>John: Fight against hypochondria;
+	end;
+	Note right of John: Rational thoughts!;
+	John-->>Alice: Great!;
+	John->>Bob: How about you?;
+	Bob-->>John: Jolly good!;
 ```
 
 {% highlight ruby %}
