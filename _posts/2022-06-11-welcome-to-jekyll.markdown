@@ -33,6 +33,7 @@ Jekyll also offers powerful support for code snippets:
 	John->>Bob: How about you?;
 	Bob-->>John: Jolly good!;
 ```
+[![](https://mermaid.ink/img/pako:eNpNkM9OwzAMh1_F5Ny9QJCKQPyZduAA11y8xG0i0rikjlA17d1JwxjkEsv-_NMnn5RlR0orqG-hz0LJ0mPAMeN0a5KR-xgs7fr-wD5p2FOMDFvdgecvwEywcrlraGSeK4FRvPVkP1pzy934a8RzGL0AjhjSIuDXma3n5HLAxlNy7X9lIciN5QF-Vt9QAieMIJ5LnSw3DW3xNb-panjJhPJv0vcPfKzqm-6Ri_wJ1_7u6nXgGFcYmd22qzo1UZ4wuHqbk0kARomniYzStXQ0YIlilEnnipbZodCTC8JZ6QHjQp3CIvy-Jqu05EK_0OW2F-r8DYO2hKw)](https://mermaid.live/edit#pako:eNpNkM9OwzAMh1_F5Ny9QJCKQPyZduAA11y8xG0i0rikjlA17d1JwxjkEsv-_NMnn5RlR0orqG-hz0LJ0mPAMeN0a5KR-xgs7fr-wD5p2FOMDFvdgecvwEywcrlraGSeK4FRvPVkP1pzy934a8RzGL0AjhjSIuDXma3n5HLAxlNy7X9lIciN5QF-Vt9QAieMIJ5LnSw3DW3xNb-panjJhPJv0vcPfKzqm-6Ri_wJ1_7u6nXgGFcYmd22qzo1UZ4wuHqbk0kARomniYzStXQ0YIlilEnnipbZodCTC8JZ6QHjQp3CIvy-Jqu05EK_0OW2F-r8DYO2hKw)
 
 {% highlight ruby %}
 def print_hi(name)
