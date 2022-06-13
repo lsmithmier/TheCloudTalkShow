@@ -11,6 +11,16 @@ Jekyll requires blog post files to be named according to the following format:
 `YEAR-MONTH-DAY-title.MARKUP`
 
 Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+
+[![](https://mermaid.ink/img/pako:eNpNkM9OwzAMh1_F5Ny9QJCKQPyZduAA11y8xG0i0rikjlA17d1JwxjkEsv-_NMnn5RlR0orqG-hz0LJ0mPAMeN0a5KR-xgs7fr-wD5p2FOMDFvdgecvwEywcrlraGSeK4FRvPVkP1pzy934a8RzGL0AjhjSIuDXma3n5HLAxlNy7X9lIciN5QF-Vt9QAieMIJ5LnSw3DW3xNb-panjJhPJv0vcPfKzqm-6Ri_wJ1_7u6nXgGFcYmd22qzo1UZ4wuHqbk0kARomniYzStXQ0YIlilEnnipbZodCTC8JZ6QHjQp3CIvy-Jqu05EK_0OW2F-r8DYO2hKw)](https://mermaid.live/edit#pako:eNpNkM9OwzAMh1_F5Ny9QJCKQPyZduAA11y8xG0i0rikjlA17d1JwxjkEsv-_NMnn5RlR0orqG-hz0LJ0mPAMeN0a5KR-xgs7fr-wD5p2FOMDFvdgecvwEywcrlraGSeK4FRvPVkP1pzy934a8RzGL0AjhjSIuDXma3n5HLAxlNy7X9lIciN5QF-Vt9QAieMIJ5LnSw3DW3xNb-panjJhPJv0vcPfKzqm-6Ri_wJ1_7u6nXgGFcYmd22qzo1UZ4wuHqbk0kARomniYzStXQ0YIlilEnnipbZodCTC8JZ6QHjQp3CIvy-Jqu05EK_0OW2F-r8DYO2hKw)
+
+```mermaid
+  graph TD;
+      A-->B;
+      A-->C;
+      B-->D;
+      C-->D;
+```
 <!---
 ```mermaid
   graph TD;
@@ -20,21 +30,6 @@ Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit number
       C-->D;
 ```
 --->
-
-<!---
-```mermaid
-    sequenceDiagram;
-	Alice->>John: Hello John, how are you?;
-	loop Healthcheck;
-	    John->>John: Fight against hypochondria;
-	end;
-	Note right of John: Rational thoughts!;
-	John-->>Alice: Great!;
-	John->>Bob: How about you?;
-	Bob-->>John: Jolly good!;
-```
---->
-[![](https://mermaid.ink/img/pako:eNpNkM9OwzAMh1_F5Ny9QJCKQPyZduAA11y8xG0i0rikjlA17d1JwxjkEsv-_NMnn5RlR0orqG-hz0LJ0mPAMeN0a5KR-xgs7fr-wD5p2FOMDFvdgecvwEywcrlraGSeK4FRvPVkP1pzy934a8RzGL0AjhjSIuDXma3n5HLAxlNy7X9lIciN5QF-Vt9QAieMIJ5LnSw3DW3xNb-panjJhPJv0vcPfKzqm-6Ri_wJ1_7u6nXgGFcYmd22qzo1UZ4wuHqbk0kARomniYzStXQ0YIlilEnnipbZodCTC8JZ6QHjQp3CIvy-Jqu05EK_0OW2F-r8DYO2hKw)](https://mermaid.live/edit#pako:eNpNkM9OwzAMh1_F5Ny9QJCKQPyZduAA11y8xG0i0rikjlA17d1JwxjkEsv-_NMnn5RlR0orqG-hz0LJ0mPAMeN0a5KR-xgs7fr-wD5p2FOMDFvdgecvwEywcrlraGSeK4FRvPVkP1pzy934a8RzGL0AjhjSIuDXma3n5HLAxlNy7X9lIciN5QF-Vt9QAieMIJ5LnSw3DW3xNb-panjJhPJv0vcPfKzqm-6Ri_wJ1_7u6nXgGFcYmd22qzo1UZ4wuHqbk0kARomniYzStXQ0YIlilEnnipbZodCTC8JZ6QHjQp3CIvy-Jqu05EK_0OW2F-r8DYO2hKw)
 
 Jekyll also offers powerful support for code snippets:
 
