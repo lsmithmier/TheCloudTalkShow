@@ -8,7 +8,7 @@ Your two, not quite crusty hosts are now ready for broadcast!
 
 In their own words we introduce …
 
-![](</_images/Headshot-150x150.jpg>)
+![](<_images/Headshot-150x150.jpg>)
 #Larry Smithmier
 I am a father. I am a programmer.  I am a software architect.
 
@@ -17,7 +17,7 @@ C# and SQL are my languages of choice.  I prefer Stored Procedures, compile time
 I currently work for Magenic and am doing SharePoint, Mobile, and Windows 10 development in my spare time.
 got to run …
 
-![](</_images/WP_20161010_005-150x150.jpg>)
+![](<_images/WP_20161010_005-150x150.jpg>)
 #Ralph Rivas
 (Semi) Mild Mannered computer consultant/Software Architect by day, Daddy/Hubby, Entertainer, Gamer, Foodie and Traveler all other times.
 
