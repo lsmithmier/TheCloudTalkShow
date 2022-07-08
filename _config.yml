@@ -22,8 +22,8 @@ title: Cloud Talk Show
 email: larry@smithmier.com
 description: >- # this means to ignore newlines until "baseurl:"
   straight talk about cloud development topics
-baseurl: "/TheCloudTalkShow/" # the subpath of your site, e.g. /blog
-url: "https://lsmithmier.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "http://cloudtalkshow.com/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: lsmithmier
 github_username:  lsmithmier
 
