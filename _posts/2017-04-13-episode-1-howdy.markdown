@@ -5,7 +5,7 @@ date:   2017-04-13 10:00:00 -0400
 categories: site news
 ---
 ## Episode 1 is official and here it is:
-{% youtube bOpz7rYkzJk %}
+{% include youtubePlayer.html id="bOpz7rYkzJk" %}
 This is the first show with all the roughness that comes with newness 😉 .   We look forward to improving the tech behind it as we look to improve ourselves along with you on all things Cloud Dev for us (light) blue collar types.
 
 As promised on the video a few notes about the content …

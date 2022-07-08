@@ -31,7 +31,6 @@ github_username:  lsmithmier
 theme: minima
 plugins:
   - jekyll-feed
-  - jekyll-youtube
 
 # Exclude from processing.
 # The following items will not be processed, by default.
