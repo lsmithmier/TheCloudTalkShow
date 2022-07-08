@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "Cloud Talk Show Episode 14 – Your Free (yes, Free) Office 365 E5 Dev Tenant (hey … it’s Free)"
+date:   2020-03-06 10:00:00 -0400
+categories: show
+--- 
+{% include youtubePlayer.html id="T-wRQ2ynQNU" %} 
+
+So our first posting now that we are back in the Saddle again … We have a backlog (and not in the Agile sense) of Videos although some of them are likely obsolete and may never see the light of You Tube, a number of them will definitely be worth watching like this one from December 2019 fresh from Ignite but before the big changes came through in January 2020. In fact, Ralph may have said an inadvertent thing or two in the video which we caught in one case but left in another cause its so Real when he has to take a moment out to ask his Mom (yes, extended family) to hang on while he finishes the meeting … fun, fun fun.
+
+There are a couple of key notes to clarify and also on the You Tube description and they are as follows:
+
+- Hub sites – There is no shared security in Hub Sites as sort of implied by Ralph in the Video but actually the though was there would be a future enhancement that might make it work … but that is also not what Ralph meant as the only way to “share” permissions is via Site Designs and Site Scripts where the script associated with the hub does some permissions pieces via script (or Power Automate which might not be free to use depending on how it is done … oh yeah Ralph has a Webinar coming up on that here!)
+- Teams versus Teams Site – Yes, the terminology sounds confusing even in the video but the idea is if you make a Team SITE in SharePoint online, you do not automatically get a TEAM as in Microsoft Teams Team … but if you create a MS Teams Team, you DO get a SharePoint Team site. It all has to do with Office 365 Groups. Don’t get confused 🙂
+
+The main Link to get it all is https://aka.ms/O365DevProgram so follow along from there 🙂
