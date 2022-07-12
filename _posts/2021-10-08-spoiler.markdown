@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Cloud Talk Episode: Spoilers"
+date:   2021-10-08 10:00:00 -0400
+categories: show
+--- 
+{% include youtubePlayer.html id="ptUVeqdg-H8" %} 
+Ralph and Larry talk about Cloud Topics!
+
+(SPOILER ALERT FOR ROGUE 1!!!! Proceed at our own risk.... )
+
+For Today the main Topic is ....

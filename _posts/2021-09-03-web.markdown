@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Cloud Talk Episode: While Larry's Away, Dad shows Daughter some Webstuff! Ft. GitHub, Sessionize, & Visual Studio Code"
+date:   2021-09-03 10:00:00 -0400
+categories: show
+--- 
+{% include youtubePlayer.html id="x_VHzjw-Stc" %} 
+Ralph and Larry talk about Cloud Topics!:  Links from the show today ... 
+
+[Sessionize.com](https://sessionize.com/)
+[Github.com](https://github.com/)
+[https://code.visualstudio.com](https://code.visualstudio.com)

@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Cloud Talk Episode 20 – Some Topics"
+date:   2021-07-09 10:00:00 -0400
+categories: show
+--- 
+{% include youtubePlayer.html id="Rf9368iOPS8" %} 
+Ralph and Larry talk about Cloud Topics ... check back for an update in the description for the topic of the week!  (As of Recording date July 9, Black Widow premier day, The show starts about 7 and a half minutes in .... please fast forward to that spot ... we will edit it asap!)

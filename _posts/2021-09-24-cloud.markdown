@@ -1,0 +1,24 @@
+---
+layout: post
+title:  "Cloud Talk Episode: On the shoulders of Giants"
+date:   2021-09-24 10:00:00 -0400
+categories: show
+--- 
+{% include youtubePlayer.html id="WueEVCjYrmY" %} 
+[XBox Avatar](https://www.gamesradar.com/xbox-engineer-saves-players-360-era-avatar-after-chance-twitter-encounter/)
+
+[SoundCloud](https://soundcloud.com/search?q=bigpix2000)
+
+[ChowNow](https://play.google.com/store/apps/developer?id=ChowNow&hl=en_US&gl=US)
+
+[Turtles all the way down](https://en.wikipedia.org/wiki/Turtles_all_the_way_down)
+
+[Alexa](https://www.amazon.com/alexa-smart-home)
+
+[Twillio](https://www.twilio.com/)
+
+[Posh.com](https://posh.com/)
+
+[Kickstarter](https://kickstarter.com/)
+
+[HeroForge](https://www.heroforge.com/)

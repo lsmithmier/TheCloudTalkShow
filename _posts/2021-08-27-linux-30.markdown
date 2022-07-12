@@ -1,0 +1,19 @@
+---
+layout: post
+title:  "Cloud Talk Episode: Linux at 30"
+date:   2021-08-27 10:00:00 -0400
+categories: show
+--- 
+{% include youtubePlayer.html id="UXCnUaGJIe0" %} 
+Ralph and Larry talk about Cloud Topics!:  Links from the show today ... 
+
+Happy 30th Birthday Linux!
+[https://www.crowdcast.io/e/happy-birthday-linux/register?session=1](https://www.crowdcast.io/e/happy-birthday-linux/register?session=1)
+
+[https://www.envirogadget.com/best/router-with-4g-backup](https://www.envirogadget.com/best/router-with-4g-backup)
+
+[https://attack.mitre.org/](https://attack.mitre.org/)
+
+[https://shield.mitre.org/](https://shield.mitre.org/)
+
+[https://netflixtechblog.com/tagged/chaos-engineering](https://netflixtechblog.com/tagged/chaos-engineering)
