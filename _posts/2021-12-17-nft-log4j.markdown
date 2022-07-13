@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "Cloud Talk Episode: NFTs and Log4j"
+date:   2021-12-17 10:00:00 -0400
+categories: show
+--- 
+{% include youtubePlayer.html id="nzToDmJXXf8" %}
+At the top of the show, Ralph and Larry discuss a twitter document concerning NFTs! Because everyone is still confused what even an NFT REALLY is!
+
+[NFT Rug Pull](https://cointelegraph.com/news/opensea-collector-pulls-the-rug-on-nfts-to-highlight-arbitrary-value)
+
+[Security in Five](https://securityinfive.libsyn.com/)
+
+[Log4j vulnerability](https://www.yahoo.com/video/nightmare-christmas-know-log4j-vulnerability-173200943.html)
+
+[Scottish Summit](https://scottishsummit.com/)

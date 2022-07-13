@@ -1,0 +1,18 @@
+---
+layout: post
+title:  "Cloud Talk Episode: LinkedIn"
+date:   2022-03-04 10:00:00 -0400
+categories: show
+--- 
+{% include youtubePlayer.html id="IW839nedJcQ" %} 
+Ralph and Larry discuss LinkedIn premium, the CoE Starter Kit, contributing to projects.
+
+[LinkedIn](https://www.linkedin.com)
+
+[Credly](https://info.credly.com/) 
+
+[CoE Starter Kit](https://github.com/microsoft/coe-starter-kit)
+
+[SAFe](https://www.scaledagileframework.com/)
+
+[About Me](https://about.me/)

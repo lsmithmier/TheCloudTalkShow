@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "Cloud Talk Episode: Machine Learning"
+date:   2021-11-12 10:00:00 -0400
+categories: show
+--- 
+{% include youtubePlayer.html id="6x2OSIOcPIE" %} 
+[M365 Chicago](https://m365chicago.com/)
+
+[GitHub Pages](https://pages.github.com/)
+
+[ML.NET](https://dotnet.microsoft.com/en-us/apps/machinelearning-ai/ml-dotnet)
+
+[.NET Conf 2021](https://www.youtube.com/watch?v=oPyTZ-HGdn4)
+
+[Survivorship Bias](https://en.wikipedia.org/wiki/Survivorship_bias)
