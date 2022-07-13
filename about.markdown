@@ -14,7 +14,7 @@ I am a father. I am a programmer.  I am a software architect.
 
 C# and SQL are my languages of choice.  I prefer Stored Procedures, compile time over runtime errors, tight and clean over multifunctional, and finally Coke over Pepsi.
 
-I currently work for Magenic and am doing SharePoint, Mobile, and Windows 10 development in my spare time.
+I currently work for Turnberry Solutions and am doing SharePoint, BrightScript, and Windows 11 development in my spare time.
 got to run …
 
 ![Ralph Headshot](https://raw.githubusercontent.com/lsmithmier/TheCloudTalkShow/main/_images/WP_20161010_005-150x150.jpg)
