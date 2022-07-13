@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Cloud Talk Episode: Travel and Dataverse"
+date:   2022-06-17 10:00:00 -0400
+categories: show
+--- 
+{% include youtubePlayer.html id="9HkBKa-q_v0" %} 
+Travel to Scotland, AI, PowerApps, Cloud Architecture.
