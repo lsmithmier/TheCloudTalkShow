@@ -28,7 +28,7 @@ twitter_username: lsmithmier
 github_username:  lsmithmier
 
 # Build settings
-theme: jekyll-theme-tactile
+theme: jekyll-theme-cayman
 plugins:
   - jekyll-feed
 
