@@ -25,3 +25,5 @@ Looking at the chart of Lambda pricing I find that a 128MB function costs $0.000
 ---
 
 Thanks, Larry … for you folks at home, please post your favorite links to using your favorite itty bitty compute services (Azure Functions, Google, etc., etc.)  and we will see you next time!
+
+Keep watching!
