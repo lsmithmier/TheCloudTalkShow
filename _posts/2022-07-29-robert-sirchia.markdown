@@ -9,10 +9,10 @@ categories: show
 Ralph and Larry talk about Cloud Topics!
 Today we are joined by our guest, Robert Sirchia and we talk about the cloud and Suse.
 
-Cloud Foundry - https://www.cloudfoundry.org/
-Epinio - https://epinio.io/
-Harvester - https://www.suse.com/products/harvester/
-Intel NUC - https://www.intel.com/content/www/us/en/products/details/nuc.html
-Buoyant Linkerd - https://buoyant.io/linkerd
-Kubewarden - https://www.kubewarden.io/
-Rancher Labs - https://rancher.com/
+- [Cloud Foundry](https://www.cloudfoundry.org/)
+- [Epinio](https://epinio.io/)
+- [Harvester](https://www.suse.com/products/harvester/)
+- [Intel NUC](https://www.intel.com/content/www/us/en/products/details/nuc.html)
+- [Buoyant Linkerd](https://buoyant.io/linkerd)
+- [Kubewarden](https://www.kubewarden.io/)
+- [Rancher Labs](https://rancher.com/)
