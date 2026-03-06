@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Cloud Talk Show with Ralph Rivas and Larry Smithmier - Cloud Talk - 300 Teams, One Night, and a Vibe-Coded Fix ft. Michael Geiser"
+title:  "Cloud Talk Show with Ralph Rivas and Larry Smithmier - 300 Teams, One Night, and a Vibe-Coded Fix ft. Michael Geiser"
 date:   2025-07-31 10:00:00 -0400
 categories: show
 --- 
